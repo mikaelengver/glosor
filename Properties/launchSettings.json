@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Glosor": {
+      "commandName": "Project",
+      "commandLineArgs": "glosor-5.txt"
+    }
+  }
+}
